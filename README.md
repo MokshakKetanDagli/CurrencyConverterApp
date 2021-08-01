@@ -9,8 +9,8 @@ I learned about Cupertino Widgets like (Cupertino scaffold, Cupertino picker), d
 
 - [Check out the link to get your own Currency Converter API:](https://p.nomics.com/cryptocurrency-bitcoin-api)
 
- - [Screenshots](https://github.com/MokshakKetanDagli/CurrencyConverterApp/blob/master/assets/screenshots/ssone.png?raw=true)
- - [Screenshots](https://github.com/MokshakKetanDagli/CurrencyConverterApp/blob/master/assets/screenshots/sstwo.png?raw=true)
+ ![Screenshots](https://github.com/MokshakKetanDagli/CurrencyConverterApp/blob/master/assets/screenshots/ssone.png?raw=true)
+ ![Screenshots](https://github.com/MokshakKetanDagli/CurrencyConverterApp/blob/master/assets/screenshots/sstwo.png?raw=true)
 
 A few resources to get you started if this is your first Flutter project:
 
